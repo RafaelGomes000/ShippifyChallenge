@@ -1,6 +1,6 @@
 # 🔴 Shippify Challenge
 
-Projeto de teste técnico para desenvolvedor back end
+Teste técnico para desenvolvedor back end pela shippify
 
 ### Pré-requisitos
 
