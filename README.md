@@ -18,7 +18,23 @@ jsonwebtoken
 
 Foram disponilizadas URLs das APIs para testes direto no Postman
 
-Explique que eles verificam esses testes e porquê.
+getAllDrivers
 ```
-Dar exemplos
+http://localhost:3306/api/drivers/
 ```
+
+addDriver
+```
+http://localhost:3306/api/drivers/adddriver
+```
+
+getVehiclesByDriver
+```
+http://localhost:3306/api/vehicles/getvehiclebydriver
+```
+
+addVehicle
+```
+http://localhost:3306/api/vehicles/addvehicle
+```
+
