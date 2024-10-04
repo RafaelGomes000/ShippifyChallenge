@@ -12,6 +12,7 @@ mysql2
 express async error
 nodemon
 jsonwebtoken
+body parser
 ```
 
 ## Executando os testes
