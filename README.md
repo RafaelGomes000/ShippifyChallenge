@@ -7,6 +7,7 @@ Teste técnico para desenvolvedor back end pela shippify
 Dependências instaladas no projeto: 
 
 ```
+node.js
 express
 mysql2
 express async error
